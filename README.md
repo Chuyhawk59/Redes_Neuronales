@@ -25,8 +25,8 @@ En este trabajo se documenta el flujo completo de clasificación de dígitos con
 ---
 
 ## Documentos
-* Archivo en jupyter
-* Archivo en HTML
-* Archivo de prediccion en tiempo real
-* Archivo del modelo
-* Numeros usados como base de datos
+* (Archivo en jupyter)[Tarea_redes_neuronales.ipynb]
+* (Archivo en HTML)[Tarea_redes_neuronales.html]
+* (Archivo de prediccion en tiempo real)[real_time_prediction.ipynb]
+* [Archivo del modelo](my_model_new.h5)
+* [Numeros usados como base de datos](https://drive.google.com/drive/u/0/folders/1zxLFp6LuusRxunKrktOS0b9igbphHU93)
